@@ -1,7 +1,8 @@
-daee3b313a9f2fd043a3cb54e0e73efc *DESCRIPTION
-b5b2e20c75457107297b566908b8c29d *NAMESPACE
+ba8009907cc1424488419a471101458a *DESCRIPTION
+d47908754b71fff3ce1ca893242bdcd6 *NAMESPACE
+2fdeb8843113714cae2ea2c0f58ce3ac *R/file.R
 36909710e27750e6559681e116ff9e80 *R/rmio-package.R
-05c5cb152365c9d20685c0c47e63f488 *README.md
+901ad6c41e44fd68f226dd91df948fa5 *README.md
 ca6c75528ac4373f79a107aa6d6a622f *inst/COPYRIGHTS
 8622e8f9f1389deab57aef0a7c6fa5e0 *inst/include/mio/CMakeLists.txt
 2c9f3094df6062272ba7c2de26f730c2 *inst/include/mio/detail/CMakeLists.txt
@@ -10,5 +11,8 @@ b7f5fafa0aa67c0dd638a38a4a69d24e *inst/include/mio/detail/string_util.hpp
 f9816b459afea78d9032d902c7768364 *inst/include/mio/mmap.hpp
 3a884ac9f9863e5d2f58a3293a0a6880 *inst/include/mio/page.hpp
 1d6e35d3110c8ba883bfc9c71761c7d8 *inst/include/mio/shared_mmap.hpp
-5da5128ff022e9b047d737c384227740 *inst/include/rmio/create-file.hpp
-e19c6cc001068ff515fe81d2169fc088 *man/rmio-package.Rd
+6e5a237bae9e66268e0fef91e6be8bf7 *inst/include/rmio/create-file.hpp
+80c45d91c452d6c2b9a0b8dac326dd9f *man/file_create.Rd
+e838fa00bfbb82159f6a8a2ec8b0ece0 *man/rmio-package.Rd
+d8afaaa67ad78362380b7177a9e127e6 *tests/testthat.R
+a49c8620c45d673971cdd92801ef550e *tests/testthat/test-file.R
